@@ -1,4 +1,4 @@
-**Simple Random Generator**
+**Simple Random Password Generator**
 
 Build with zig:
 
